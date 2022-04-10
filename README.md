@@ -1,7 +1,7 @@
 # Kaggle_Petals_to_Metal
 
 <p align="center">
-<img src="https://github.com/maneesh51/Kaggle_Petals_to_Metal/blob/main/Fig0.png" width="800">
+<img src="https://github.com/maneesh51/Kaggle_Petals_to_Metal/blob/main/Fig0.png" width="700">
 <img src="https://github.com/maneesh51/Kaggle_Petals_to_Metal/blob/main/Fig1.png" width="290">
 <img src="https://github.com/maneesh51/Kaggle_Petals_to_Metal/blob/main/Fig2.png"width="420">
 </p>
