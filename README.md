@@ -8,5 +8,5 @@
 
 ### Using different TF models on TPU over Kaggle for Flowers category prediction
 
-1. Working completely on Kaggle comptetion 'Petals to metals', data is provided there.
+1. Working completely on Kaggle comptetion 'Petals to metals', data is already provided within the competition.
 2. 
